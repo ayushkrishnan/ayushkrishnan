@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node js**
 
-- 💬 Ask me about **Figm**
+- 💬 Ask me about **Figma**
 
 - 📫 How to reach me **ayushkrishnanu@gmail.com**
 
