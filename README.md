@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/__a_yush__" target="blank"><img src="https://img.shields.io/twitter/follow/__a_yush__?logo=twitter&style=for-the-badge" alt="__a_yush__" /></a> </p>
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **Embedded systems and IOT**
 
 - 💬 Ask me about **Figma**
 
